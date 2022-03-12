@@ -1,5 +1,4 @@
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.vbproj.AssemblyReference.cache
-C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.Form1.resources
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.vbproj.GenerateResource.cache
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_2
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.pdb
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.genruntimeconfig.cache
 C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.Resources.resources
+C:\Users\famco\OneDrive\Escritorio\201700729_IDIOMAS\IDIOMAS_201700729\IDIOMAS_201700729\obj\Debug\net6.0-windows\IDIOMAS_201700729.INSCRIPCIONES.resources

@@ -29,26 +29,26 @@ Module Module1
                 CLASES(i, j) = Nothing
             Next j
         Next i
-        Form1.DataGridView1.Rows.Clear()
+        INSCRIPCIONES.DTW_DETALLES.Rows.Clear()
         FILA = 0
     End Sub
     Sub limpiar_entradas()
-        Form1.TextBox2.Text = ""
-        Form1.TextBox1.Text = ""
+        INSCRIPCIONES.TBOX_CARNET.Text = ""
+        INSCRIPCIONES.TBOX_NOMBRE.Text = ""
 
-        Form1.CheckBox1.Checked = False
-        Form1.CheckBox2.Checked = False
+        INSCRIPCIONES.CheckB_VIERNES.Checked = False
+        INSCRIPCIONES.CheckB_SABADO.Checked = False
 
-        Form1.ComboBox1.Text = "SELECCIONE UN IDIOMA"
+        INSCRIPCIONES.CBOX_IDIOMAS.Text = "SELECCIONE UN IDIOMA"
 
-        Form1.RadioButton1.Checked = False
-        Form1.RadioButton2.Checked = False
+        INSCRIPCIONES.RB_EFECTIVO.Checked = False
+        INSCRIPCIONES.RB_CHEQUE.Checked = False
     End Sub
     Sub Mostrar()
 
         For FILA = 0 To 8
             If CLASES(FILA, 0) <> Nothing Then
-                Form1.DataGridView1.Rows.Add(CLASES(FILA, 0), CLASES(FILA, 1), CLASES(FILA, 2), CLASES(FILA, 3), CLASES(FILA, 4), CLASES(FILA, 5), CLASES(FILA, 6), CLASES(FILA, 7), CLASES(FILA, 8), CLASES(FILA, 9), CLASES(FILA, 10))
+                INSCRIPCIONES.DTW_DETALLES.Rows.Add(CLASES(FILA, 0), CLASES(FILA, 1), CLASES(FILA, 2), CLASES(FILA, 3), CLASES(FILA, 4), CLASES(FILA, 5), CLASES(FILA, 6), CLASES(FILA, 7), CLASES(FILA, 8), CLASES(FILA, 9), CLASES(FILA, 10))
             Else
                 Exit For
             End If
