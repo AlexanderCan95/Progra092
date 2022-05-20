@@ -1,0 +1,17 @@
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\bin\Debug\net6.0-windows\201700729_Hotel.exe
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\bin\Debug\net6.0-windows\201700729_Hotel.deps.json
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\bin\Debug\net6.0-windows\201700729_Hotel.runtimeconfig.json
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\bin\Debug\net6.0-windows\201700729_Hotel.dll
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\bin\Debug\net6.0-windows\201700729_Hotel.pdb
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.vbproj.AssemblyReference.cache
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\_201700729_Hotel.Form1.resources
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.vbproj.GenerateResource.cache
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.AssemblyInfoInputs.cache
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.AssemblyInfo.vb
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.vbproj.CoreCompileInputs.cache
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.dll
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\refint\201700729_Hotel.dll
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.pdb
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\201700729_Hotel.genruntimeconfig.cache
+C:\Users\famco\OneDrive\Escritorio\201700729_FinalB\201700729_Hotel\201700729_Hotel\obj\Debug\net6.0-windows\ref\201700729_Hotel.dll
